@@ -13,3 +13,5 @@ I'm also a semi-professional soccer player. I've been palying for all schools th
 I play the piano. My 2 favorite pieces of music to play are Chopin's Fantaisie Impromptu Op.66 and Yuki Kuramoto's Lake Louise.
 I play the cello. I'm not a good cellist, I'd been learning it onlt for about 3 years, but the sound that Cello makes relieves me a lot so I want to keep learning it if time permits.
 I'm also a passionate traveller. The number of countries that I have visited are only 4, but I used to go  short trips that are no longer than 3, 4 days maaaany times during weekends. Especially, for the last 3 years, my family and I covered lots and lots of places in the U.S. and Canada. The posts about big trips are on 'Travelling' section on my blog.
+
+If you want to get in touch, feel free to DM me via instagram or just send e-mail to me.
