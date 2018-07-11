@@ -21,7 +21,7 @@ description              : "computer technician's portfolio"
 url                      : "https://booooooomy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "booooooomy/Booooooomy.github.io"
-teaser                   : "/image/내 사진.jpg"
+teaser                   : "/images/me.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 
@@ -100,8 +100,8 @@ analytics:
 # Site Author
 author:
   name             : "Beomjoo Kim"
-  avatar           : "/image/내 사진.jpg"
-  bio              : "UCLA engineering student, semi-pro soccer player"
+  avatar           : "/images/me.jpg"
+  bio              : "UCLA CS engineering student, semi-pro soccer player"
   location         : "Los Angeles, US"
   email            : "globalman96@g.ucla.edu"
   uri              : #
@@ -116,9 +116,9 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "boomy_la/"
+  instagram        : "boomy_la"
   lastfm           :
-  linkedin         : "beomjoo-kim-40a674143/"
+  linkedin         : "beomjoo-kim-40a674143"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
