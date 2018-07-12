@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/CentralParkSoccer.jpg"
+  image: "/images/CentralParkSoccer.png"
 ---
 
 안녕!! 
