@@ -1,8 +1,9 @@
 ---
 title: "About"
 permalink: /about/
+author_profile: true
 header:
-  image: "/images/CentralParkSoccer.png"
+   image: "/images/CentralParkSoccer.png"
 ---
 
 안녕!! 
