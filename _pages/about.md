@@ -3,6 +3,7 @@ title: "About"
 permalink: /about/
 header:
    image: "/images/cpsoccer.jpg"
+   
 ---
 
 안녕!! 
