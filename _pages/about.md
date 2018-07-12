@@ -3,7 +3,7 @@ layout: "About"
 author_profile: true
 permalink: /about/
 header:
-  image: "/images/CentralParkSoccer.png"
+  image: "/images/cpsoccer.jpg"
 ---
 
 안녕!! 
