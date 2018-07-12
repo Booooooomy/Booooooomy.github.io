@@ -11,10 +11,10 @@ header:
 안녕!
 
 I'm Beomjoo. I'm a current undergraduate student in **University of California, Los Angeles(UCLA)** and my major is **Computer Science & Engineering**. I am an Artificial Intelligence and Machine Learning lover. My background is more of software than hardware, but I'm also interested in hardware as well and that's why I am majoring an interdisciplinary area on both computer science and computer engineering. 
-I have done several kinds of of self and team projects related to SW.
-In 2016, I developed an android game application called sprint on galaxy using *C# on unity platform* by myself as a summer project. It was my first self project so not a masterpiece, but it's not bad.
-In 2017, I participated a CAPSTONE undergraduate research team as a software engineer. I developed a SW program that goes into a rover(a small car) and helps it to avoid upcoming obstacles as it moves forward. I used *Arduino and Python* for the program.
-In 2018, I'm working at California Institute of Technology(Caltech) starting from summer 2018 as a part-time software engineer in Mars Habitat Project supported by NASA. I'm developing a software that operates on the robot arm that builds our model house. After the prototype of our house is completely built and if we get a final confirm by NASA, it would be sent to Mars and built on it. We're using *Python on Linux Ubuntu platform with Gazebo plugin and MoveIt*!
+I have done several kinds of of self and team projects related to SW. <br>
+-In 2016, I developed an android game application called 'sprint on galaxy' using *C# on unity platform* by myself as a summer project. It was my first self project so not a masterpiece, but it's not bad. <br>
+-In 2017, I participated a CAPSTONE undergraduate research team as a software engineer. I developed a SW program that goes into a rover(a small car) and helps it to avoid upcoming obstacles as it moves forward. I used *Arduino and Python* for the program. <br>
+-In 2018, I'm working at California Institute of Technology(Caltech) starting from summer 2018 as a part-time software engineer in Mars Habitat Project supported by NASA. I'm developing a software that operates on the robot arm that builds our model house. After the prototype of our house is completely built and if we get a final confirm by NASA, it would be sent to Mars and built on it. We're using *Python on Linux Ubuntu platform with Gazebo plugin and MoveIt*!
 
 I'm also a semi-professional soccer player. I've been palying for all schools that I attended ever since back in elementary school. I play winger and attacking midfielder. I love pick-up games so do not hesitate to hit me if you play soccer near westwood! I will be there unless I have another computer programming project LOL
 
