@@ -1,9 +1,9 @@
 ---
-title: "About"
-permalink: /about/
+layout: "About"
 author_profile: true
+permalink: /about/
 header:
-   image: "/images/CentralParkSoccer.png"
+  image: "/images/CentralParkSoccer.png"
 ---
 
 안녕!! 
