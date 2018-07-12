@@ -269,10 +269,3 @@ defaults:
       comments: # true
       share: true
       related: true
-   # _Mars_Project
-   - scope:
-       path: ""
-       type: posts
-     values:
-       layout: single
-       author_profile: true
