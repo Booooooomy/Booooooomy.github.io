@@ -19,7 +19,9 @@ header:
    I'm also a semi-professional soccer player. I've been palying for all schools that I attended ever since back in elementary school. I play winger and attacking midfielder. I love pick-up games so do not hesitate to hit me if you play soccer near westwood! I will be there unless I have another computer programming project LOL
 
    I play the piano. My favorite pieces of music to play are *Chopin's Fantaisie Impromptu Op.66* and *Yuki Kuramoto's Lake Louise*.
+   
    I play the cello. I'm not a good cellist, I'd been learning it only for about 3 years, but the sound of Cello always relieves me so I want to keep learning it if time permits.
+   
    I'm a passionate traveller. The number of countries that I have visited is 4, which is not even decent, but I used to go to short trips no longer than 3 days many, many times during weekends. Especially for the last 3 years, my family and I visited and toured lots and lots of places in the U.S. and Canada. I'm going to post how marvelous the trips were on 'Travelling' section on my blog.
 
    If you want to get in touch, feel free to DM me via instagram or just send e-mail to me.
