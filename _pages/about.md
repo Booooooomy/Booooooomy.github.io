@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 author_profile: true
 header:
-   image: "/images/cpsoccer.jpg" = 100px
+   image: "/images/cpsoccer.jpg"
 ---
 
 
