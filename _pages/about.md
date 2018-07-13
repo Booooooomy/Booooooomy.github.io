@@ -10,7 +10,7 @@ header:
 
 안녕!
 
-I'm Beomjoo. I'm a current undergraduate student in **University of California, Los Angeles(UCLA)** and my major is **Computer Science & Engineering**. I am an Artificial Intelligence and Machine Learning lover. My background is more of software than hardware, but I'm also interested in hardware as well and that's why I am majoring an interdisciplinary area on both computer science and computer engineering. I have done several kinds of of self and team projects related to SW.
+<p>I'm Beomjoo. I'm a current undergraduate student in **University of California, Los Angeles(UCLA)** and my major is **Computer Science & Engineering**. I am an Artificial Intelligence and Machine Learning lover. My background is more of software than hardware, but I'm also interested in hardware as well and that's why I am majoring an interdisciplinary area on both computer science and computer engineering. I have done several kinds of of self and team projects related to SW.<p/>
 
 <ul type="square">
     <li>In 2016, I developed an android game application called 'sprint on galaxy' using *C# on unity platform* by myself as a summer project. It was my first self project so not a masterpiece, but it's not bad.</li>
@@ -18,10 +18,10 @@ I'm Beomjoo. I'm a current undergraduate student in **University of California, 
     <li>In 2018, I'm working at California Institute of Technology(Caltech) starting from summer 2018 as a part-time software engineer in Mars Habitat Project supported by NASA. I'm developing a software that operates on the robot arm that builds our model house. After the prototype of our house is completely built and if we get a final confirm by NASA, it would be sent to Mars and built on it. We're using *Python on Linux Ubuntu platform with Gazebo plugin and MoveIt*!</li>
 </ul>
 
-I'm also a semi-professional soccer player. I've been palying for all schools that I attended ever since back in elementary school. I play winger and attacking midfielder. I love pick-up games so do not hesitate to hit me if you play soccer near westwood! I will be there unless I have another computer programming project LOL
+<p>I'm also a semi-professional soccer player. I've been palying for all schools that I attended ever since back in elementary school. I play winger and attacking midfielder. I love pick-up games so do not hesitate to hit me if you play soccer near westwood! I will be there unless I have another computer programming project LOL<p/>
 
-I play the piano. My 2 favorite pieces of music to play are Chopin's Fantaisie Impromptu Op.66 and Yuki Kuramoto's Lake Louise.
+<p>I play the piano. My 2 favorite pieces of music to play are Chopin's Fantaisie Impromptu Op.66 and Yuki Kuramoto's Lake Louise.
 I play the cello. I'm not a good cellist, I'd been learning it only for about 3 years, but the sound of Cello always relieves me so I want to keep learning it if time permits.
-I'm a passionate traveller. The number of countries that I have visited are only 4, but I used to go  short trips that are no longer than 3, 4 days maaaany times during weekends. Especially, for the last 3 years, my family and I covered lots and lots of places in the U.S. and Canada. The posts about big trips are on 'Travelling' section on my blog.
+I'm a passionate traveller. The number of countries that I have visited are only 4, but I used to go  short trips that are no longer than 3, 4 days maaaany times during weekends. Especially, for the last 3 years, my family and I covered lots and lots of places in the U.S. and Canada. The posts about big trips are on 'Travelling' section on my blog.<p/>
 
 If you want to get in touch, feel free to DM me via instagram or just send e-mail to me.
