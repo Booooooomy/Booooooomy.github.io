@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 title: "C/C++"
 permalink: /C-C++/
 author_profile: true
