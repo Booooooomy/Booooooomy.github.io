@@ -18,7 +18,7 @@ Among those 3 different usage of & in c++, I will go over 1 and 3.
 # Reference variable(only possible on C++, doesn't work on C)
 
 A reference is a simple reference datatype that is relatively less powerful but safer than the pointer type.
-If int& a = b;, a is an alias of b. a is just another name of b. So a is b. Not just its value the same, **but they are just "same"**.
+If int& a = b;, a is an alias of b. a is just another name of b. So a is b. Not just it's value that's the same, **but they are just "same"**.
 
 Here is a good example. This will show the difference between call by reference and call by value.
 Swap is a function that swaps the value of x and y.
