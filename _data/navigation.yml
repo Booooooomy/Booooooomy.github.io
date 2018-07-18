@@ -2,11 +2,11 @@
 main:
   - title: "About"
     url: /about/
+  - title: "C/C++"
+    url: /c_c++/
+  - title: "Data Structures"
+    url: /data_structures/
   - title: "Projects"
     url: /projects/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
