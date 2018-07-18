@@ -6,16 +6,16 @@ header:
 excerpt: "C/C++"
 ---
 
-# Pointer
+reviewing the basic C++ pointers beforehand.
 
-First, let’s review the basic C++ pointers beforehand.
-
-## Memory location of data:
+**Memory location of data:**
 
 If we declare 
 ```c++
 int num = 3; 
 ```
+
+# Pointer
 
 then the compiler automatically stores the variable num at certain address. Once the memory location is done by declaring it, the memory address is fixed during an execution of the application code(while num is in scope).
 
