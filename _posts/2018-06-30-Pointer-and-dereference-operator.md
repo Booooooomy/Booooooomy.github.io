@@ -24,12 +24,10 @@ Int* pNum = &num;
 it has a same structure as int num = 3;.
 A pointer cannot be compiled without initialization just like other types like int.
 
-**Importance of pointers**
+## Importance of pointers
 
 1. As the amount of data gets bigger, passing a pointer is much efficient than passing the entire data structure. 
-
 2. The pointer gives you a direct access to the data.
-
 3. Pointers allow to dynamically allocate memory in application (DMA: do not need to know the size of memory that will be needed for an object at compile time, but the size is allocated during runtime).
 
 
