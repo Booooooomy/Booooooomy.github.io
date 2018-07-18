@@ -16,15 +16,15 @@ then the compiler automatically stores the variable num at certain address. Once
 # Pointer
 
 ## Definition of Pointer:
-A pointer is a variable that holds the memory address of an object. *We can simply think of a pointer as another variable that contains address in it.*
+A pointer is a variable that holds the memory address of an object. *We can simply think of a pointer as another variable that contains address in it.*  
 If we want to make a variable pNum, which is a pointer pointing to the address of num, it can be defined like this.
 ```c++
 Int* pNum = &num;
 ```
-it has a same structure as int num = 3;.
+it has the same structure as int num = 3;.
 A pointer cannot be compiled without initialization just like other types like int.
 
-## Why pointers are so important?
+## Why are pointers so important?
 
 1. As the amount of data gets bigger, passing a pointer is much efficient than passing the entire data structure. 
 2. The pointer gives you a direct access to the data.
