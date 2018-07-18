@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: posts
 title: "C/C++"
 permalink: /C-C++/
 author_profile: true
