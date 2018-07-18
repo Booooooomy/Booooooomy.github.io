@@ -6,7 +6,7 @@ header:
 excerpt: "C/C++"
 ---
 
-reviewing the basic C++ pointers beforehand.
+Reviewing the basic C++ pointers
 
 **Memory location of data:**
 
