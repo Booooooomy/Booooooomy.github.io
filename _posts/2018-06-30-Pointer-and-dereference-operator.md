@@ -1,5 +1,5 @@
 ---
-title: "* : Pointer and dereference opeartor"
+title: " * : Pointer and dereference opeartor"
 date: 2018-06-30
 header:
   image: "/images/C++ wallpaper.jpg"
