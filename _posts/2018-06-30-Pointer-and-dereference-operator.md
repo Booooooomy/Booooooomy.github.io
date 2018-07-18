@@ -35,11 +35,11 @@ A pointer cannot be compiled without initialization just like other types like i
 3. Pointers allow to dynamically allocate memory in application (DMA: do not need to know the size of memory that will be needed for an object at compile time, but the size is allocated during runtime).
 
 
-#The dereference operator#
+# The dereference operator
 
-The asterisk(*) is used as a dereference operator as well. From the pNum example above, if there is a notation looks like *pNum then it is a dereferenced value of pNum, which is 3.
+The asterisk( * ) is used as a dereference operator as well. From the pNum example above, if there is a notation looks like (* pNum) then it is a dereferenced value of pNum, which is 3.
 
 How to distinguish which one is which???
 
-	**If * is at the left side of the assignment =, then it’s used as a pointer.**
-	**If * is at the right side of the =, then it’s used as a dereference operator.**
+ * If * is at the left side of the assignment =, then it’s used as a pointer.
+ * If * is at the right side of the =, then it’s used as a dereference operator.
