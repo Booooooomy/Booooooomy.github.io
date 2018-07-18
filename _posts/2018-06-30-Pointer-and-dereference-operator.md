@@ -25,7 +25,7 @@ Int* pNum = &num;
 it has a same structure as int num = 3;.
 A pointer cannot be compiled without initialization just like other types like int.
 
-**Importance of pointers>**
+**Importance of pointers**
 
 1. As the amount of data gets bigger, passing a pointer is much efficient than passing the entire data structure. 
 
