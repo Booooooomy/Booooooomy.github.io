@@ -11,10 +11,9 @@ If we declare
 ```c++
 int num = 3; 
 ```
+then the compiler automatically stores the variable num at certain address. Once the memory location is done by declaring it, the memory address is fixed during an execution of the application code(while num is in scope).
 
 # Pointer
-
-then the compiler automatically stores the variable num at certain address. Once the memory location is done by declaring it, the memory address is fixed during an execution of the application code(while num is in scope).
 
 ## Definition of Pointer:
 A pointer is a variable that holds the memory address of an object. *We can simply think of a pointer as another variable that contains address in it.*
