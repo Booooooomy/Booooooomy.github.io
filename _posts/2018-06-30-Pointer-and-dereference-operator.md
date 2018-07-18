@@ -1,7 +1,7 @@
 ---
 title: "(* ): Pointer and dereference opeartor"
 date: 2018-06-30
-permalink: "/C-C++/"
+#permalink: "/C-C++/"
 header:
   image: "/images/C++ wallpaper.jpg"
 excerpt: "C/C++"
