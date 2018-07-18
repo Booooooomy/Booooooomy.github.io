@@ -60,7 +60,7 @@ void swap(int& x, int& y)
    y = tmp;
 }
 ```
-Now it works. The only differenece was to change parameters of swap function from int to int&.  
+Now it works. The only thing I did was to change parameters of swap function from int to int&.  
 By doing so, we could call not a copy of a and b, but called the exact a and b themselves.  
 this is called **call by reference**.
 
