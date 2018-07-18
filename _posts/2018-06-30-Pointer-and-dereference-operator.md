@@ -6,14 +6,21 @@ header:
 excerpt: "C/C++"
 ---
 
+# There are 3 different usages of * in C++.
+1. multiplication    ex) 4 * 5
+2. pointer    ex) int* num;
+3. dereference    ex) * num;
+
+# Pointer
+
+before we get in, review this:
+
 **Memory location of data:**
 If we declare 
 ```c++
 int num = 3; 
 ```
 then the compiler automatically stores the variable num at certain address. Once the memory location is done by declaring it, the memory address is fixed during an execution of the application code(while num is in scope).
-
-# Pointer
 
 ## Definition of Pointer:
 A pointer is a variable that holds the memory address of an object. *We can simply think of a pointer as another variable that contains address in it.*  
@@ -36,7 +43,7 @@ A pointer cannot be compiled without initialization just like other types like i
 The asterisk( * ) is used as a dereference operator as well.  
 From the pNum example above, if there is a notation looks like (* pNum) then it is a dereferenced value of pNum, which is num, which is 3.
 
-How to distinguish which one is pointer and whicn one is dereference operator???
+# How to distinguish which one is pointer and whicn one is dereference operator???
 
  * If * is at the left side of the assignment =, then it’s used as a pointer.
  * If * is at the right side of the =, then it’s used as a dereference operator.
