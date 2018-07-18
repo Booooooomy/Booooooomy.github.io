@@ -17,18 +17,20 @@ int num = 3;
 then the compiler automatically stores the variable num at certain address. Once the memory location is done by declaring it, the memory address is fixed during an execution of the application code(while num is in scope).
 
 ## Definition of Pointer:
-A pointer is a variable that holds the memory address of an object. We can think of a pointer as another variable that contains address in it.
+A pointer is a variable that holds the memory address of an object. *We can simply think of a pointer as another variable that contains address in it.*
 If we want to make a variable pNum, which is a pointer pointing to the address of num, it can be defined like this.
 ```c++
 Int* pNum = &num;
 ```
-
 it has a same structure as int num = 3;.
 A pointer cannot be compiled without initialization just like other types like int.
 
-<Importance of pointers>
+**Importance of pointers>**
+
 1. As the amount of data gets bigger, passing a pointer is much efficient than passing the entire data structure. 
+
 2. The pointer gives you a direct access to the data.
+
 3. Pointers allow to dynamically allocate memory in application (DMA: do not need to know the size of memory that will be needed for an object at compile time, but the size is allocated during runtime).
 
 
