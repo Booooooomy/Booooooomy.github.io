@@ -6,10 +6,7 @@ header:
 excerpt: "C/C++"
 ---
 
-Reviewing basic C++ pointer concepts
-
 **Memory location of data:**
-
 If we declare 
 ```c++
 int num = 3; 
