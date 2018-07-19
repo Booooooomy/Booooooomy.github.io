@@ -1,7 +1,9 @@
 ---
-layout: single
-title:  "About *: Pointer and dereference operator"
-date:   2018-06-29
+title: "about * : Pointer and dereference operator"
+date: 2018-06-29
+header:
+  image: "/images/C++ wallpaper.jpg"
+exerpt: C/C++
 ---
 
 # There are 3 different usages of * in C++.
