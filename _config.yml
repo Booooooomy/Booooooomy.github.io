@@ -266,16 +266,14 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
-      related: true
-
-collections:
-   c_cpp:
-   - scope:
+# _c_cpp
+     - scope:
        path: ""
        type: c_cpp
      values:
-       layout: page
+       layout: single
        
+collections:
+- c_cpp
+
 collections_dir: c_cpp
