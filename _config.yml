@@ -266,14 +266,14 @@ defaults:
   # _c_cpp
   - scope:
       path: ""
-      type: c_cpp
+      type: c-cpp
     values:
       layout: single
       author_profile: true
        
 collections:
-  c_cpp:
+  c-cpp:
     output: true
     permalink: /:collection/:path/
 
-collections_dir: c_cpp
+collections_dir: c-cpp
