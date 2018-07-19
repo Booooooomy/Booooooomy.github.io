@@ -3,7 +3,7 @@ title: "about * : Pointer and dereference operator"
 date: 2018-06-29
 header:
   image: "/images/C++ wallpaper.jpg"
-exerpt: C/C++
+exerpt: C++
 ---
 
 
