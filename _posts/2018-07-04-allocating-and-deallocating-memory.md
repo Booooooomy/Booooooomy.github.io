@@ -3,6 +3,7 @@ title: "Allocating and deallocating memory"
 date: 2018-07-04
 header:
   image: "/images/C++ wallpaper.jpg"
+exerpt: C++
 ---
 
 
