@@ -2,6 +2,8 @@
 title:  "C/C++"
 layout: archive
 permalink: /corcpp/
+header:
+  image: "/images/C++ wallpaper.jpg/"
 author_profile: true
 ---
 
