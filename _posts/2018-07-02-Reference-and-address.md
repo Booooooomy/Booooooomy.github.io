@@ -9,7 +9,7 @@ exerpt: C/C++
 
 
 
-# 3 different possible usage of &(ampersand)
+## 3 different possible usage of &(ampersand)
 
 1. address of a     ex) int a, scanf(%d; &a)
 2. bit and operator     ex) 0 & 1
@@ -18,7 +18,7 @@ exerpt: C/C++
 Among those 3 different usage of & in c++, I will go over 1 and 3.
 
 
-# Reference variable(only possible on C++, doesn't work on C)
+## Reference variable(only possible on C++, doesn't work on C)
 
 A reference is a simple reference datatype that is relatively less powerful but safer than the pointer type.
 If int& a = b;, a is an alias of b. a is just another name of b. So a is b. Not just it's value that's the same, **but they are just "same"**.
@@ -68,7 +68,7 @@ By doing so, we could call not a copy of a and b, but called the exact a and b t
 this is called **call by reference**.
 
 
-## Difference between refernce and pointers
+### Difference between refernce and pointers
 
 1. reference cannot be uninitialized. Think of it as a shadow. There can be no shadow if there is no object.  
 If there's no object to reference, for sure it would cause a syntax error.
@@ -76,11 +76,44 @@ If there's no object to reference, for sure it would cause a syntax error.
 3. Once a refernce is created, it can't be later made to reference another object while it happens to pointers many times.
 
 
-# & as an address-of operator
+## & as an address-of operator
 
 & is the unary address operator. When applied to a variable or object it returns its address, a value that can be stored in a pointer.
 
 
-# How to distinguish & of reference type from & of address-of operator?
+## How to distinguish & of reference type from & of address-of operator?
 
 If used with int& declaration, it's reference. If not, it's an address-of operator.
+
+
+## Examples
+
+If we write a code like below,
+
+```c++
+    int num = 3;
+    int &refNum = num;
+
+    cout << "num contains " << num << endl;
+    cout << "refNum contains " << refNum << endl;
+
+    refNum++;    // increment refNum by 1
+
+    cout << "num contains " << num << endl;
+    cout << "refNum contains " << refNum << endl;
+    cout << "refNum is located at " << &refNum << " and num is located at " << &num << endl;
+```
+
+we get this result:
+
+```c++
+    num contains 3
+    refNum contains 3
+    num contains 4
+    refNum contains 4
+    refNum is located at 0018FE14 and num is located at 0018FE14
+    Press any key to continue . . .
+```
+
+So num and refNum are essentially same.  
+Reference is very, very useful when you want to make another name of a variable.
