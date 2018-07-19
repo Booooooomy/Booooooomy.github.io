@@ -285,7 +285,7 @@ defaults:
       author_profile: true
 
 collections:
-  C_C++:
+  C_CPP:
     output: true
     permalink: /:collection/:path/
-   collections_dir: C_C++
+   collections_dir: C_CPP
