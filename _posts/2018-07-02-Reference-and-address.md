@@ -1,9 +1,9 @@
 ---
-title: "&: reference-type and address-of operator"
+title: "about &: reference-type and address-of operator"
 date: 2018-07-02
 header:
   image: "/images/C++ wallpaper.jpg"
-excerpt: "C/C++"
+exerpt: C/C++
 ---
 
 # 3 different possible usage of &(ampersand)
