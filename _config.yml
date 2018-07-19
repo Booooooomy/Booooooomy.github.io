@@ -254,29 +254,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      share: true
-      related: true
-      
-  # _c_cpp
-   - scope:
-       path: ""
-       type: c_cpp
-     values:
-       layout: single
-       author_profile: true
-       read_time: true
        
 collections:
   c_cpp:
