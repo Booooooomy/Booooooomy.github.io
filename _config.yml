@@ -276,6 +276,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+   # _C/C++
+  - scope:
+      path: "_C-C++"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
 
 collections:
   portfolio:
