@@ -8,8 +8,7 @@ exerpt: C/C++
 
 
 
-
-## There are 3 different usages of * in C++.
+## 3 different usages of * in C++.
 1. multiplication    ex) 4 * 5
 2. pointer    ex) int* num;
 3. dereference    ex) * num;
