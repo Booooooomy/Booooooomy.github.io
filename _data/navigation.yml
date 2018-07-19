@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "C/C++"
-    url: /C-C++/
+    url: /_C-CPP/
   - title: "Data Structures"
     url: /data_structures/
   - title: "Projects"
