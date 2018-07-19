@@ -266,12 +266,15 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      
 # _c_cpp
-     - scope:
+   - scope:
        path: ""
        type: c_cpp
      values:
        layout: single
+       author_profile: true
+       read_time: true
        
 collections:
 - c_cpp
