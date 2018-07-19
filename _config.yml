@@ -270,10 +270,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-       
-collections:
-  c-cpp:
-    output: true
-    permalink: /c-cpp/
-
-collections_dir: c-cpp
