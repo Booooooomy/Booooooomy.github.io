@@ -266,10 +266,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
       share: true
       related: true
-# _c_cpp
+      
+  # _c_cpp
    - scope:
        path: ""
        type: c_cpp
