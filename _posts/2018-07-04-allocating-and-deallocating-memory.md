@@ -21,8 +21,8 @@ int* pInt = new int;  // creating a pointer that can possibly point to int types
 double* pDouble = new double;  //same, but points to double types instead of int
 ```
 
-By doing a dynamic memory allocation, we are making an empty(unassigned) pointer that could possibly point to a certain data type.  
-When I first learned this, I questioned, "Why didn't the C++ makers make something like int* pInt;? What's the point of having 'new' keyword?"
+By doing dynamic memory allocation, we are making an empty(unassigned) pointer that could possibly point to a certain data type.  
+When I first learned this, I questioned, "Why didn't the C++ makers make something like int* pInt;? What's the point of having 'new' keyword?"  
 It's because sometimes it is possible to have A type pointer to point to B type variable. For example, it is possible that long pointers point at int variable.  
 Thus, our OS cannot know what variable the pointer is going to point at and thus cannot assign a proper size for the variable.  
 
@@ -42,7 +42,5 @@ delete pDouble;
 
 Simple, right? just type delete keyword and a pointer that you used for DMA. By doing so, you are deallocating a memory.  
 This step is essential, theoretically, because if you don't, the memory would not be deallocated until the program ends and will casue memory leak.  
-But in real application, it's ok if you don't do so because most of the OS, including windows and macOS, automatically delete them for you if you forget to do so.
-
-
+But in real application, it's ok if you don't do so because most of the OS, including windows and macOS, automatically delete them for you if you forget to do so.  
 By the way, in C, keywords malloc() and free is used instead of keywords new and delete.
