@@ -277,6 +277,8 @@ defaults:
        read_time: true
        
 collections:
-- c_cpp
+  c_cpp:
+    output: true
+    permalink: /:collection/:path/
 
 collections_dir: c_cpp
