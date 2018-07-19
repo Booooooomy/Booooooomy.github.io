@@ -6,6 +6,9 @@ header:
 exerpt: C/C++
 ---
 
+
+
+
 # 3 different possible usage of &(ampersand)
 
 1. address of a     ex) int a, scanf(%d; &a)
