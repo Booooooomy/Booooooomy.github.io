@@ -271,11 +271,11 @@ defaults:
       related: true
 
 collections:
-   c/cpp:
+   c_cpp:
    - scope:
        path: ""
-       type: c/cpp
+       type: c_cpp
      values:
        layout: page
        
-collections_dir: c/cpp
+collections_dir: c_cpp
