@@ -272,7 +272,12 @@ defaults:
   # _Mars_project
   - scope:
       path: ""
-      type: posts
+      type: portfolio
     values:
       layout: single
       author_profile: true
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
