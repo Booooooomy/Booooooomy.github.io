@@ -269,23 +269,13 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _Mars_project
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-   # _C/C++
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
 
 collections:
-  _C_CPP:
-    output: true
-    permalink: /:collection/:path/
-   collections_dir: C_CPP
+   c/cpp:
+   - scope:
+       path: ""
+       type: c/cpp
+     values:
+       layout: page
+       
+collections_dir: c/cpp
