@@ -255,6 +255,22 @@ compress_html:
   ignore:
     envs: development
        
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+  # _c_cpp
+  - scope:
+      path: ""
+      type: c_cpp
+    values:
+      layout: single
+      author_profile: true
+       
 collections:
   c_cpp:
     output: true
