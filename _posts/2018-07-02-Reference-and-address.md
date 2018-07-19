@@ -3,7 +3,7 @@ title: "about &: reference-type and address-of operator"
 date: 2018-07-02
 header:
   image: "/images/C++ wallpaper.jpg"
-exerpt: C/C++
+exerpt: C++
 ---
 
 
