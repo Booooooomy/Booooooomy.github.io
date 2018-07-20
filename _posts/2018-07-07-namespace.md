@@ -84,6 +84,7 @@ namespace ContosoDataServer
     int Bar();  
 }
 
+----------------------------------------------------------------
 
 #include "contosodata.h"  
 using namespace ContosoDataServer;   
