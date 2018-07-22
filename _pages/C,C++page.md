@@ -7,7 +7,7 @@ header:
 author_profile: true
 ---
 
-A place for reviewing and digging more about C/C++.
+A place for reviewing and deeper studying about C/C++.
 
 {% for post in site.cposts %}
   {% include archive-single.html %}
