@@ -105,3 +105,8 @@ In Objective-C, it is required to have the base class initialized before the der
 
 Sometimes we may like to keep certain members of the base class private to the outside world but public to derived classes of the base class.
 Here, we use keyword - protected. **If a variable or function is in protected keyword, then it can be accessed by derived classes but not by outside world**.
+
+
+## The combinations of the component declaration and inheritance
+
+https://i.stack.imgur.com/W6CJ3.jpg
