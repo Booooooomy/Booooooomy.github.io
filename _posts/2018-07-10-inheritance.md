@@ -109,4 +109,5 @@ Here, we use keyword - protected. **If a variable or function is in protected ke
 
 ## The combinations of the component declaration and inheritance
 
-https://i.stack.imgur.com/W6CJ3.jpg
+![table](https://i.stack.imgur.com/W6CJ3.jpg)
+
