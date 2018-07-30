@@ -111,3 +111,14 @@ Here, we use keyword - protected. **If a variable or function is in protected ke
 
 ![table](https://i.stack.imgur.com/W6CJ3.jpg)
 
+1. how a variable / function is declared at base class:  
+
+First, if declared as public at base class then it is accessible from both derived class's declaration and object.  
+Second, if declared as private at base class then it is not accessible from both ".  
+Third, if declared as protected at base class then it is accessible from derived class's declaration, but not from its object.  
+
+2. what type of inheritance we use:  
+
+First, if inherited as public, all the type remains same as it is in base class - but access to private is N/A.  
+Second, if inherited as private, all the type change into private type - but access to private is N/A.  
+Third, if inherited as protected, public type changes into protected, and everything same, but access to private is N/A.  
