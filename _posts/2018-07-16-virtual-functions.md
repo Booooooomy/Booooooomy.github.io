@@ -9,7 +9,7 @@ exerpt: C++
 
 
 
-## Introducing Virtual Fucntions
+## Introducing virtual fucntions
 
 One of the main reasons that we use inheritance is to reuse common code across a hierarchy of related classes.
 In these cases, we often find that the derived classes need to implement specialized versions of some member functions from the base class.
