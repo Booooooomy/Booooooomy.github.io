@@ -36,26 +36,20 @@ STL Vector is a template class that uses this method. So STL vector is almost sa
 ## STL vector API
 
 (1) push_back(key)
-
 putting a new data(key) at the back of the vector. For example, if a[0] and a[1], a.push_back(1) makes a[2] == 1.
 
 (2) pop_back()
-
 getting rid of the last data of the vector. The size of the vector automatically reduces one.
 
 (3) back()
-
 returning the last data.
 
 (4) size()
-
 size shows how many elements of the vector are occupied by data.
 
 (5) resize(num)
-
 resizing the number of elements of vector to num.
 
 (6) at()
-
 return element at specified index number.  
 *This can only be done for the index number that is smaller or same with the size of the vector. Otherwise, it causes a compile error.*
