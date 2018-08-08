@@ -26,7 +26,7 @@ vector<typename> vectorname; // vector<int> intvector;
 
 ## what is a difference between arrays and vectors?
 
-Array is just a sequential memory container and it cannot grow its size during the program runs. 
+Array is just a sequential memory container and it cannot grow its size while the program is running. 
 However, as we covered beforehand, we can use dynamic memory allocation and resize an array.
 STL Vector is a template class that uses this method. So STL vector is almost same as dynamic array, but few things differ.  
 
