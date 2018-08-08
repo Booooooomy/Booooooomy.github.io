@@ -28,7 +28,7 @@ vector<typename> vectorname; // vector<int> intvector;
 
 Array is just a sequential memory container and it cannot grow its size while the program is running. 
 However, as we covered beforehand, we can use dynamic memory allocation and resize an array.
-STL Vector is a template class that uses this method. So STL vector is almost same as dynamic array, but few things differ.  
+STL Vector is a template class that uses this method. So STL vector is almost same as dynamic array, but few things differ.
 
 **std::vector is standardized STL while dynamic array is created by me, which means others can more easily understand STL vector over dynamic array.**
 
@@ -37,19 +37,15 @@ STL Vector is a template class that uses this method. So STL vector is almost sa
 
 (1) push_back(key)
 putting a new data(key) at the back of the vector. For example, if a[0] and a[1], a.push_back(1) makes a[2] == 1.
-
 (2) pop_back()
 getting rid of the last data of the vector. The size of the vector automatically reduces one.
-
 (3) back()
 returning the last data.
-
 (4) size()
 size shows how many elements of the vector are occupied by data.
-
 (5) resize(num)
 resizing the number of elements of vector to num.
-
 (6) at()
 return element at specified index number.  
+
 *This can only be done for the index number that is smaller or same with the size of the vector. Otherwise, it causes a compile error.*
