@@ -33,8 +33,8 @@ Deallocation is the last required step after using 'new' keyword. All you have t
 Continuing from the example code above,
 
 ```c++
-int* pInt = new int;  // creating a pointer that can possibly point to int types, but not pointing at anything for now
-double* pDouble = new double;  //same, but points to double types instead of int
+int* pInt = new int;  // creating a pointer that can possibly point to int types, but not pointing at anything for now, waiting for the int to come.
+double* pDouble = new double;  //same, but points to double types instead of int.
 
 delete pInt;
 delete pDouble;
