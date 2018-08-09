@@ -56,7 +56,12 @@ Just to double check, if we do (numPtr == numPtr2) here, we get true boolean val
 
 
 
-##
+## the . and -> operator
+
+We use . and -> operators many time in programming. Each usage is different.  
+Each is, **object.member; pointer->member;.**  
+So if a thing that a member is in is an obejct, use . operator and it is in a pointer, use -> operator.  
+For example, **(* nPtr).member** is the same thing as **nPtr->member**.
 
 
 
