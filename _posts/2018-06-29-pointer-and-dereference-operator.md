@@ -49,6 +49,16 @@ A bottle that **contains** a cuisine called **an address** of integer.
 3. Pointers allow to dynamically allocate memory during run time(Dynamic Memory Allocation: do not need to know the size or number of memory that will be needed for an object at compile time, rather the size is allocated during runtime).
 
 
+### The allocation of a pointer
+
+let's say there are two pointers called numPtr and numPtr2. Since both of them are pointers, if we do **numPtr = numPtr2;**, numPtr points to the same address where numPtr2 is also pointing to.  
+Just to double check, if we do (numPtr == numPtr2) here, we get true boolean value, since now both pointers are same.
+
+
+
+##
+
+
 
 ## The dereference operator
 
