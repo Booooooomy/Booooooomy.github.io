@@ -37,11 +37,9 @@ it has the same structure as int num = 3;.
 A pointer cannot be compiled without initialization just like other types like int.
 
 
-If the concept of a pointer is confusing, then we can just simply think of it two different ways.
+If the concept of a pointer is confusing, then we can just simply think of it in this way.
 
-1. A bottle that **contains** a cuisine called **an address** of integer.  
-                              or                                  
-2. A thing that is **pointing to** some **int** value.
+A bottle that **contains** a cuisine called **an address** of integer.
 
 
 ### Why are pointers so important?
